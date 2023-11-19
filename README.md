@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrinal Roy Chowdhury</h1>
-<h3 align="center">I'm a Lead Frontend Developer, helping developer at large.</h3>
+<h3 align="center">I'm a Lead Frontend Developer, helping developers at large.</h3>
 
 - 🌱 I’m currently learning **React more deeply**
 
